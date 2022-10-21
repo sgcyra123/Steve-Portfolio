@@ -1,5 +1,4 @@
-# Steve-Portfolio
-Example data science portfolio
+
 Tableau Dashboards
 
 Factors influencing bank customer retention
